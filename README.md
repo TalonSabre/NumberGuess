@@ -1,12 +1,14 @@
-This app was made early in my process of learning SwiftUI.
+This app was made early on while learning SwiftUI.
+
+All code is in the [ContentView](/Numbers/ContentView.swift) file.
 
 Very simply made with a lot of if statements.
  It actually functions nicely.
 
 Lottie Animation added makes it look nicer.
 
-I'm not changing this app again anytime soon.
- It is here for reference and preservation.
+This is the final project.
+ The app is here for reference and preservation.
  
 Screenshots
 --
